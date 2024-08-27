@@ -1,4 +1,4 @@
-< Coding Test(Data Structure) Study With Java >
+< Coding Test(Data Structure) Study Using Java >
 
 1차 스터디 기간: 2024/7/2 ~ 2024/8/19
 (예정) 2차 스터디 기간: 2024/9 ~
@@ -17,7 +17,7 @@
 ㄴ Unit 10. Set
 ㄴ Unit 11. Graph
 
-(예정) 2st Study Contents
+(예정) 2nd Study Contents
 ㄴ Unit 12. Backtracking
 ㄴ Unit 13. Sort
 ㄴ Unit 14. Simulation
